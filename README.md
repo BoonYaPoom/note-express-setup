@@ -1,6 +1,6 @@
 ```bash
 #install yarn and npm
-$yarn
-$npm i
+$ yarn
+$ npm i
 
 ```
